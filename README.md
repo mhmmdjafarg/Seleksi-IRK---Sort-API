@@ -37,24 +37,19 @@ Untuk tugas seleksi ini, silahkan kalian menggunakan **python** untuk mengimplem
 - Request params : Bisa gada, bisa dispecify dengan ?id=
 - Yang direturn : Jika tidak dispecify param id, maka hasil sorting terbaru di table sorting, jika ada maka sesuai dengan idnya <br>
 
-## Bonus ( 2500 point max )
+## Bonus ( 1000 point max )
 
 ### SEGALA PERUBAHAN BAGIAN SPEK WAJIB YANG DIPERLUKAN DEMI MEMBUAT SPEK BONUS DIPERSILAHKAN, ASAL DIJELASKAN APA DAN MENGAPA PERLU SAAT DEMO NANTI
 
 ### More sort ( 300 point )
 Tambahkan algoritma sorting lain dengan menambahkan rute baru dengan method POST dengan url /sort/namaalgoritma, format request dan return sama dengan selection sort.
 
-### Data Preprocess ( 300 point )
+### Data Preprocess ( 200 point )
 Data file csv merupakan tabel, dan tabel memiliki beberapa kolom, namun bisa jadi beberapa kolom tidak konsisten, bisa jadi kolom 2 seharusnya string, tapi terkadang ada baris yang malah memiliki INT di kolom 2, hapuslah data data yang invalid ini dari tabel sebelum sorting dilakukan.
 
 ### Autentikasi ( 500 point )
 Tambahkan autentikasi dalam implementasi API, autentikasi menggunakan JWT atau json web token. Tambahkan rute POST yang jika dikirimkan user dan password valid, akan mengembalikan access token, dan buat sehingga semua rute membutuhkan access token.
 
-### Demo Front-End ( 1000 point )
-Buatlah front-end simple untuk demo, front end harus menggunakan framework seperti React/Vue/Danlainlain. Tidak boleh pure HTML. Front end untuk demo memiliki 2 spesifikasi untuk dipenuhi, yang pertama adalah form untuk mengirim request sorting ke rute POST sort/, dan page untuk menampilkan hasil get /sort/result.
-
-### Deploy ( 400 point )
-Deploy biar bisa diakses di internet. Bebas platformnya mau github.io ato heroku ato pribadi, yang penting bisa diakses di internet.
 
 ## Pengerjaaan dan Pengumpulan dan Demo
 Fork dari repo ini lalu kerjakan di repo hasil fork kalian <br>
