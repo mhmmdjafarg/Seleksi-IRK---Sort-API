@@ -57,6 +57,4 @@ Buatlah front-end simple untuk demo, front end harus menggunakan framework seper
 Deploy biar bisa diakses di internet. Bebas platformnya mau github.io ato heroku ato pribadi, yang penting bisa diakses di internet.
 
 ## Contact Person
-Jika ada pertanyaan, hubungi di :<br>
-Line : aids.dragon <br>
-Tanyalah kapanpun butuh, mau jam 1 siang ato jam 2 malem terserah, cuma pahami bahwa gw cuma bisa jawab as soon as i read them dan gw ga bangun 24/7 mantengin line.
+Jika ada pertanyaan, buatlah issue github di repo ini lalu pc gw di line : aids.dragon
