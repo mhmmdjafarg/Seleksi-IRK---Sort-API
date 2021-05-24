@@ -56,5 +56,10 @@ Buatlah front-end simple untuk demo, front end harus menggunakan framework seper
 ### Deploy ( 400 point )
 Deploy biar bisa diakses di internet. Bebas platformnya mau github.io ato heroku ato pribadi, yang penting bisa diakses di internet.
 
+## Pengerjaaan dan Pengumpulan dan Demo
+Fork dari repo ini lalu kerjakan di repo hasil fork kalian <br>
+Buatlah pull requests jika sudah ingin submit, hubungi line : aids.dragon untuk janjian demo. <br>
+Kalopun udh pull requests dan mau ngubah ngubah sebelum demo sok aja gapapa
+
 ## Contact Person
 Jika ada pertanyaan, buatlah issue github di repo ini lalu pc gw di line : aids.dragon
