@@ -2,7 +2,7 @@
 
 ## Deskripsi
 No basa basi background story or whatever maap ga kreatip gw<br>
-Untuk tugas seleksi ini, silahkan kalian menggunakan **python** untuk mengimplementasikan sorting menggunakan selection sort terhadap sebuah tabel data berbentuk csv, lalu program tersebut kalian pasang ke sebuah API yang memiliki Database, dikarenakan code program python, maka **disarankan** untuk menggunakan **Flask** untuk implementasi API, namun **penggunaan Framework lain dipersilahkan** untuk implementasi APInya, selama source code sorting tetap menggunakan python. **Database diwajibkan menggunakan MySQl, bukan sqlite atau semacamnya**.
+Untuk tugas seleksi ini, silahkan kalian menggunakan **python** untuk mengimplementasikan sorting menggunakan selection sort terhadap sebuah tabel data berbentuk csv, lalu program tersebut kalian pasang ke sebuah API yang memiliki Database, dikarenakan code program python, maka **disarankan** untuk menggunakan **Flask** untuk implementasi API, namun **penggunaan Framework lain dipersilahkan** untuk implementasi APInya, selama source code sorting tetap menggunakan python. **Database diwajibkan menggunakan MySQl**.
 
 ## Keypoint yang akan dihadapi dalam tugas ini
 1. Belajar API
