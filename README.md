@@ -9,8 +9,7 @@ Untuk tugas seleksi ini, silahkan kalian menggunakan **python** untuk mengimplem
 2. Implementasi Sorting
 3. Database MySQL
 4. Autentikasi dalam API (Bonus)
-5. Belajar Front-End (Bonus)
-6. Data preprocessing (Bonus)
+5. Data preprocessing (Bonus)
 
 ## Spesifikasi Wajib ( 1500 point )
 
