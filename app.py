@@ -62,12 +62,12 @@ def login():
         return redirect('/')
 
 @app.route('/home')
-@token_required
+# @token_required
 def home():
     return render_template('home.html')
 
 @app.route('/sort/<method>', methods=['POST'])
-@token_required
+# @token_required
 def upload_file(method):
     uploadedfile = request.files['file']
     kolomacuan = int(request.form['kolomacuan'])-1
@@ -76,6 +76,7 @@ def upload_file(method):
     if uploadedfile.filename != '':
         filename = secure_filename(uploadedfile.filename)
         file_path = os.path.join(app.config['UPLOAD_FOLDER'], filename)
+        uploadedfile.save(file_path)
         jsonarray = convertCSV(file_path)
     
     # Validasi kolom acuan

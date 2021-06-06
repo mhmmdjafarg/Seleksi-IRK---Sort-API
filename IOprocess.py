@@ -49,15 +49,3 @@ def removeInconsistentData(jsonArray):
         temp.clear()
         othertemp.clear()
     return jsonArray
-
-
-# a = convertCSV('data.csv')
-# # c = a[0].copy()
-# # c['nomor'] = 100
-# # d = checkIfItemExist(a, c)
-# # print(a[0])
-# # print(c)
-# # print(d)
-# b = removeInconsistentData(a)
-# for i in b:
-#     print(i)
