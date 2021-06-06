@@ -1,0 +1,16 @@
+/* GLOBAL SETTINGS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.container {
+    margin-top: 2em;
+    justify-content: center;
+}
+
+h3 {
+    margin-bottom: 4em;
+}
